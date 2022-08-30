@@ -1,9 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Louise is an up-and-coming playwright who is hoping to get some crowdfunding for her play titled *Fever*. She has estimated that her play will require a budget of $10,000 and has made that her funding goal. This project will use data from Kickstarter and Excel to analyze previous campagins. 
 
 ### Purpose
-The Purpose of this project is to analyze past data from Kickstarter campaigns to find any trends that will help Louise find out how successful her campaign for the 
+The Purpose of this project is to analyze data from previous Kickstarter campaigns to find any trends that will help Louise find out what criteria she needs to have for her campaign to have the best chance at success.  
 
 ## Analysis and Challenges
 
